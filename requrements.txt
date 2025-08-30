@@ -1,0 +1,7 @@
+streamlit
+pandas
+qdrant-client
+pycaret.clustering 
+plotly.express 
+json
+dotenv 
