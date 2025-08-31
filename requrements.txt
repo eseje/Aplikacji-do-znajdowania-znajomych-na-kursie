@@ -1,7 +1,7 @@
 streamlit
 pandas
 qdrant-client
-pycaret.clustering 
+pycaret
 plotly.express 
 json
 dotenv 
