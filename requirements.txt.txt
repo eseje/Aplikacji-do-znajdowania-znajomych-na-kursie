@@ -1,7 +1,7 @@
 streamlit
 pandas
 qdrant-client
-pycaret
+pycaret==3.3.2
 plotly.express 
 json
 dotenv 
