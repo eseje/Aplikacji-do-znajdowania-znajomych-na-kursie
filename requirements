@@ -3,5 +3,4 @@ pandas
 qdrant-client
 pycaret==3.3.2
 plotly.express 
-json
 dotenv 
