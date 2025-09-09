@@ -1,7 +1,11 @@
-streamlit
+streamlit==1.48.0
 numpy==1.26.4
-pandas
-qdrant-client
+pandas==2.2.3
+qdrant-client==1.15.1
 pycaret==3.3.2
-plotly
-python-dotenv
+plotly==5.24.1
+python-dotenv==1.1.0
+openai==1.100.2
+pmdarima==2.0.4
+yellowbrick==1.5
+imbalanced-learn==0.14.0
